@@ -1,1 +1,1 @@
-# researches-on-steel-building-optimization
+# Some researches on Automated Structural Design
